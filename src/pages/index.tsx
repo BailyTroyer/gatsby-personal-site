@@ -7,7 +7,7 @@ import { BlockText } from 'components/block-text/BlockText';
 
 export default () => (
   <>
-    <Helmet title="bailytroyer.io" />
+    <Helmet title="Welcome" />
 
     <Intro>
       Hi I'm Baily, a student at <Highlight>UB</Highlight>,&nbsp; and an SRE Intern at <Highlight>ACV Auctions</Highlight>,&nbsp;using <Highlight>Kubernetes</Highlight>, <Highlight>gRPC</Highlight>, <Highlight>Golang</Highlight> and Swift 😃!
