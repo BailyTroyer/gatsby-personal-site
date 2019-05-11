@@ -22,12 +22,12 @@ export const helmet = {
     { property: 'og:image:height', content: '440px' },
     { property: 'og:image:alt', content: description },
 
-    { name: 'twitter:title', content: title },
-    { name: 'twitter:card', content: 'summary_large_image' },
-    { name: 'twitter:image', content: share },
-    { name: 'twitter:site', content: '@uenodotco' },
-    { name: 'twitter:creator', content: '@uenodotco' },
-    { name: 'twitter:description', content: description },
+    // { name: 'twitter:title', content: title },
+    // { name: 'twitter:card', content: 'summary_large_image' },
+    // { name: 'twitter:image', content: share },
+    // { name: 'twitter:site', content: '@uenodotco' },
+    // { name: 'twitter:creator', content: '@uenodotco' },
+    // { name: 'twitter:description', content: description },
   ],
   link: [
     { rel: 'icon', type: 'image/x-icon', href: favicon },
