@@ -10,7 +10,7 @@ export default () => (
     <Helmet title="Home" />
 
     <Intro>
-      Hi I'm Baily, a student at <Highlight>UB</Highlight>,&nbsp; and an SRE Intern at <Highlight>ACV Auctions</Highlight>,&nbsp;using <Highlight>Kubernetes</Highlight>, <Highlight>gRPC</Highlight>, <Highlight>GoLang</Highlight> and Swift 😃!
+      Hi I'm Baily, a student at <Highlight>UB</Highlight>,&nbsp; and an SRE Intern at <Highlight>ACV Auctions</Highlight>,&nbsp;using <Highlight>Kubernetes</Highlight>, <Highlight>gRPC</Highlight>, <Highlight>Golang</Highlight> and Swift 😃!
     </Intro>
 
     <BlockText
