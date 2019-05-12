@@ -19,7 +19,7 @@ export const Footer = ({ logo, social }: IFooterProps) => (
     <Container>
       <div className={s.footer__content}>
         <a
-          href="http://localhost:8000/"
+          href="https://bailytroyer.io"
           target="_blank"
           rel="noopener noreferrer"
         >
