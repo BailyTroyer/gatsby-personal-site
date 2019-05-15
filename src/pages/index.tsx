@@ -11,7 +11,7 @@ export default () => (
 
     <Intro>
       Hi I'm Baily!
-      I'm a student at <Highlight>UB</Highlight>,&nbsp; and a Site Reliability Engineering Intern at <Highlight>ACV Auctions</Highlight>,&nbsp;using <Highlight>Kubernetes</Highlight>, <Highlight>gRPC</Highlight>, <Highlight>Golang</Highlight> and much more 😃
+      I'm a student at <Highlight>UB</Highlight>,&nbsp; and a Site Reliability Engineering Intern at <Highlight>ACV Auctions</Highlight>! My favorite tools and languages are <Highlight>Kubernetes</Highlight>, <Highlight>gRPC</Highlight>, <Highlight>Golang</Highlight> and <Highlight>Swift</Highlight>😃!
     </Intro>
 
     <BlockText
